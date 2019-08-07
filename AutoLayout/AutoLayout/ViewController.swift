@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  AutoLayoutLab
+//  AutoLayout
 //
 //  Created by Jack Wong on 8/7/19.
 //  Copyright © 2019 Jack Wong. All rights reserved.
